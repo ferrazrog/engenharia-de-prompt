@@ -12,7 +12,7 @@ E recebeu um tratamento para abordar o tema dentro de um contexto específico.
 
 - **Maximize a eficiência**: Aprenda a comunicar suas necessidades de forma eficaz ao modelo, economizando tempo e recursos.
 - **Melhore a precisão das respostas**: Ajustando suas perguntas, você pode guiar o modelo para fornecer exatamente o que você precisa.
-- **Inovação no trabalho**: Descubra como o prompt engineering pode ser um aliado poderoso para secretárias executivas, transformando a maneira como você organiza, planeja e comunica na Telefónica.
+- **Inovação no trabalho**: Descubra como o prompt engineering pode ser um aliado poderoso para secretárias executivas, transformando a maneira como você organiza, planeja e se comunica.
 
 ---
 - **Exemplo**: Imagine solicitar um resumo de uma reunião complexa. Sem técnicas de prompt engineering, você pode receber um texto longo e genérico. Com prompt engineering, você especifica o formato, os pontos de foco, e o comprimento desejado, resultando em um resumo conciso e informativo, pronto para ser usado em comunicações internas.
@@ -88,7 +88,7 @@ E recebeu um tratamento para abordar o tema dentro de um contexto específico.
 - **Minimize fabricações**: Fornecer texto de referência pode levar a respostas mais precisas e menos inventadas.
 - **Exemplo**:
   - Em vez disso: "Qual é a política de home office?"
-  - Faça isso: Fornecer o documento da política de home office da Telefónica para responder a uma pergunta sobre os requisitos para trabalho remoto.
+  - Faça isso: Fornecer o documento da política de home office para responder a uma pergunta sobre os requisitos para trabalho remoto.
 
 ---
 
@@ -97,7 +97,7 @@ E recebeu um tratamento para abordar o tema dentro de um contexto específico.
 - **Use informações confiáveis**: Instrua o modelo a responder com base no texto de referência fornecido.
 - **Exemplo**:
   - Em vez disso: "Como faço para solicitar férias?"
-  - Faça isso: "Usando o manual do funcionário da Telefónica fornecido, explique o processo para solicitar férias."
+  - Faça isso: "Usando o manual do funcionário fornecido, explique o processo para solicitar férias."
 
 ---
 
@@ -150,7 +150,7 @@ E recebeu um tratamento para abordar o tema dentro de um contexto específico.
 - **Raciocínio aprofundado**: Permita que o modelo "pense" para chegar a conclusões mais precisas.
 - **Exemplo**:
   - Em vez disso: "Responda rapidamente."
-  - Faça isso: "Antes de responder ao e-mail do cliente, liste possíveis soluções para o problema apresentado, considerando as políticas da Telefónica."
+  - Faça isso: "Antes de responder ao e-mail do cliente, liste possíveis soluções para o problema apresentado, considerando as políticas da empresa."
 
 ---
 
@@ -159,7 +159,7 @@ E recebeu um tratamento para abordar o tema dentro de um contexto específico.
 - **Evite conclusões precipitadas**: Instrua o modelo a calcular sua própria solução antes de avaliar a do usuário.
 - **Exemplo**:
   - Em vez disso: "Qual é a resposta para o cliente?"
-  - Faça isso: "Considere as políticas de atendimento ao cliente da Telefónica e as informações do caso antes de redigir uma proposta de solução para o problema do cliente."
+  - Faça isso: "Considere as políticas de atendimento ao cliente da empresa e as informações do caso antes de redigir uma proposta de solução para o problema do cliente."
 
 ---
 
